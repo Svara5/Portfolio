@@ -1,0 +1,317 @@
+@media screen and (min-width: 1290px) {
+    body {
+        background: #e6e6e6;
+        font-family: lucida;
+    }
+    .secOne {
+        margin-top: 5%;
+    }
+    #navbar-id {
+        background: #000000;
+        height: 80px;
+    }
+    #portfolio-logo {
+        height: 110px;
+        width: 150px;
+        padding-bottom: 40px;
+    }
+    #scene {
+        top: 10px;
+        -webkit-transition: top 0.3s;
+        -moz-transition: top 0.3s;
+        -o-transition: top 0.3s;
+    }
+    .img-responsive {
+        filter: blur(.75px);
+        height: 400px;
+        width: 400px;
+    }
+    .img-responsive:hover {
+        filter: none;
+        transition-duration: .25s;
+    }
+    .profile-img {
+        /*background-image: url("http://pe-images.s3.amazonaws.com/photo-effects/cs6/starry-night-sky/stars-colorized.jpg");*/
+        background-color: #1a1a1a;
+        background-repeat: no-repeat;
+        background-size: 1499px 700px;
+        padding: 10px 10px;
+        height: 700px;
+        width: auto;
+    }
+    .img-div {
+        margin: 10px auto;
+    }
+    .type-it {
+        color: #00ff00;
+        font-family: courier;
+    }
+    #type-name {
+        font-size: 20px;
+    }
+    #type-world {
+        font-size: 30px;
+    }
+    .type-it-p {
+        margin-top: 20px;
+        height: auto;
+        width: auto;
+        margin-left: 9%;
+    }
+    .nav-list {
+        font-family: 'Abril Fatface', cursive;
+        height: auto;
+        width: auto;
+    }
+    .navbar-nav{
+    	padding: 10px 10px; 
+    }
+    #navbar-main {
+        margin: 10px 10px;
+    }
+    .navbar-brand {
+        padding: 5px;
+    }
+}
+
+@media screen and (max-width: 1289px) {
+    body {
+        background: #e6e6e6;
+        font-family: lucida;
+    }
+    .secOne {
+        margin-top: 5%;
+    }
+    #navbar-id {
+        background: #000000;
+        height: 80px;
+    }
+    #portfolio-logo {
+        height: 110px;
+        width: 150px;
+        padding-bottom: 40px;
+    }
+    #scene {
+        top: 10px;
+        -webkit-transition: top 0.3s;
+        -moz-transition: top 0.3s;
+        -o-transition: top 0.3s;
+    }
+    .img-responsive {
+        filter: blur(.75px);
+        height: 350px;
+        width: 350px;
+    }
+    .img-responsive:hover {
+        filter: none;
+        transition-duration: .25s;
+    }
+    .profile-img {
+    	background-color: #1a1a1a;
+        background-repeat: no-repeat;
+        background-size: 1499px 500px;
+        padding: 10px 10px;
+        height: 550px;
+        width: auto;
+    }
+    .img-div {
+        margin: 10px auto;
+    }
+    .type-it {
+        color: #00ff00;
+        font-family: courier;
+    }
+    #type-name {
+        font-size: 15px;
+    }
+    #type-world {
+        font-size: 25px;
+    }
+    .type-it-p {
+        margin-top: 20px;
+        height: auto;
+        width: auto;
+        margin-left: 9%;
+    }
+    .nav-list {
+        font-family: 'Abril Fatface', cursive;
+        height: auto;
+        width: auto;
+    }
+    .navbar-nav{
+    	padding: 10px 10px; 
+    }
+    #navbar-main {
+        margin: 10px 10px;
+    }
+    .navbar-brand {
+        padding: 5px;
+    }
+}
+
+@media screen and (max-width: 1157px) {
+    body {
+        background: #e6e6e6;
+        font-family: lucida;
+    }
+    .secOne {
+        margin-top: 5%;
+    }
+    #navbar-id {
+        background: #000000;
+        height: 65px;
+    }
+    #portfolio-logo {
+        height: 100px;
+        width: 120px;
+        padding-bottom: 40px;
+    }
+    #scene {
+        top: 10px;
+        -webkit-transition: top 0.3s;
+        -moz-transition: top 0.3s;
+        -o-transition: top 0.3s;
+    }
+    .img-responsive {
+        filter: blur(.75px);
+        height: 300px;
+        width: 300px;
+    }
+    .img-responsive:hover {
+        filter: none;
+        transition-duration: .25s;
+    }
+    .profile-img {
+        /*background-image: url("http://pe-images.s3.amazonaws.com/photo-effects/cs6/starry-night-sky/stars-colorized.jpg");*/
+        background-color: #1a1a1a;
+        background-repeat: no-repeat;
+        background-size: 1499px 700px;
+        padding: 10px 10px;
+        height: 500px;
+        width: auto;
+    }
+    .img-div {
+        margin: 10px auto;
+    }
+    .type-it {
+        color: #00ff00;
+        font-family: courier;
+    }
+    #type-name {
+        font-size: 15px;
+    }
+    #type-world {
+        font-size: 25px;
+    }
+    .type-it-p {
+        margin-top: 20px;
+        height: auto;
+        width: auto;
+        margin-left: 9%;
+    }
+    .nav-list {
+        font-family: 'Abril Fatface', cursive;
+        height: auto;
+        width: auto;
+    }
+
+    /*.navbar-toggle {
+        display: block;
+        margin: 10px 5px;
+    }*/
+    .nav-burger-div{
+    	width: 95%;
+    }
+    .navbar-collapse.collapse {
+        display: none !important;
+    }
+    .navbar-toggle{
+  		display:block;
+	}
+	.navbar-nav{
+    	padding: 10px 10px; 
+    }
+    #navbar-main {
+         margin: 10px 10px;
+    }
+    .navbar-brand {
+        padding: 5px;
+    }
+}
+
+
+@media screen and (max-width: 1057px) {
+    body {
+        background: #e6e6e6;
+        font-family: lucida;
+    }
+    .secOne {
+        margin-top: 5%;
+    }
+    #navbar-id {
+        background: #000000;
+        height: 60px;
+    }
+    #portfolio-logo {
+        height: 100px;
+        width: 120px;
+        padding-bottom: 40px;
+    }
+    #scene {
+        top: 10px;
+        -webkit-transition: top 0.3s;
+        -moz-transition: top 0.3s;
+        -o-transition: top 0.3s;
+    }
+    .img-responsive {
+        filter: blur(.75px);
+        height: 300px;
+        width: 300px;
+    }
+    .img-responsive:hover {
+        filter: none;
+        transition-duration: .25s;
+    }
+    .profile-img {
+        /*background-image: url("http://pe-images.s3.amazonaws.com/photo-effects/cs6/starry-night-sky/stars-colorized.jpg");*/
+        background-color: #1a1a1a;
+        background-repeat: no-repeat;
+        background-size: 1499px 700px;
+        padding: 10px 10px;
+        height: 500px;
+        width: auto;
+    }
+    .img-div {
+        margin: 10px auto;
+    }
+    .type-it {
+        color: #00ff00;
+        font-family: courier;
+    }
+    #type-name {
+        font-size: 15px;
+    }
+    #type-world {
+        font-size: 20px;
+    }
+    .type-it-p {
+        margin-top: 20px;
+        height: auto;
+        width: auto;
+        margin-left: 9%;
+    }
+    .nav-list {
+        font-family: 'Abril Fatface', cursive;
+        height: auto;
+        width: auto;
+    }
+    .navbar-nav{
+    	padding: 10px 10px; 
+    }
+    #navbar-main {
+         margin: 10px 10px;
+    }
+    .navbar-brand {
+        padding: 5px;
+    }
+}
